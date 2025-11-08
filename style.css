@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fdf5c9;
+}
+#map {
+  height: 600px;
+  width: 600px;
+  margin: auto;
+  width: 80%;
+  margin-bottom: 30px;
+}
+h1{
+  text-align: center;
+    color: brown;
+  font-family: Garamond;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 0px;
+}
+h2{
+  text-align: center;
+    color: brown;
+  font-family: Garamond;
+  font-weight: bold;
+  font-style: italic;
+    font-size: 32px;
+  line-height: 15px
+}
+h4 {
+  text-align: center;
+    color: black;
+  font-family: Garamond;
+  font-weight: lighter;
+  font-size: 20px;
+  line-height: 19px;
+  margin-left: 160px;
+  margin-right: 160px;
+
+}
+h5 {
+  text-align: center;
+    color: black;
+  font-family: Garamond;
+  font-weight: lighter;
+  font-size: 15px;
+  line-height: 0px;
+}
+h6{
+  text-align: center;
+  line-height: 10px;
+  font-family: Garamond;
+  font-weight: lighter;
+  font-size: 15px;
+  font-style: italic;
+}
+#myButton{
+  text-align: center;
+  font-family: Garamond;
+  font-size: 20px;
+  height: 60px;
+  margin-left: 550px;
+  margin-right: 550px;
+  margin-top: 10px;
+  color: green;
+}
